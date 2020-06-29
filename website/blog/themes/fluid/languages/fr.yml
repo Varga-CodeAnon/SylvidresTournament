@@ -1,0 +1,44 @@
+search:
+  title: Recherche
+  keyword: mots clés
+  status:
+    success: v
+    error: x
+
+postTotal: "%d articles au total."
+
+paginator:
+  pre: Précédent
+  next: Suivant
+
+post:
+  toc: Sommaire
+  pre: Précédent
+  next: Suivant
+
+home:
+  title: Accueil
+
+archive:
+  title: Archives
+  subtitle: Archive
+
+tag:
+  title: Tags
+  subtitle: Sélection d'articles par tags
+
+category:
+  title: Catégories
+  subtitle: Sélection d'articles par catégorie
+
+about:
+  title: À propos
+  subtitle: La naissance des Sylvidres
+
+page404:
+  title: Page non existante
+  subtitle: Oops, la page demandée n'a pas été trouvée...
+
+links:
+  title: Liens
+  subtitle: Liens
