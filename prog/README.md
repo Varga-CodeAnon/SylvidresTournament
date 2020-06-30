@@ -2,11 +2,11 @@
 Suite de scripts python3 pour aider à manager un *single elimination tournament.*
 ## Sommaire
 - [Tournament Assistant](#tournament-assistant)
-	- [Sommaire](#sommaire)
-	- [À propos](#à-propos)
-		- [Contexte](#contexte)
-		- [Règles](#règles)
-		- [Structure du projet](#structure-du-projet)
+  - [Sommaire](#sommaire)
+  - [À propos](#à-propos)
+    - [Contexte](#contexte)
+    - [Règles](#règles)
+    - [Structure du projet](#structure-du-projet)
 ## À propos
 L'objectif est de réaliser un tournoi 1vs1 ou 3vs3 avec élimination qui répond à des règles spécifiques.
 ### Contexte
@@ -30,4 +30,5 @@ Les règles seront inspirés de la [Dofus Cup 2019](https://dofus.jeuxonline.inf
 Le projet sera divisé en plusieurs sous programmes articulés par un programme principal. Parmis ces sous-programmes :
 - Le premier sera chargé de l'inscription des participants
 - Le second s'occupera de vérifier que les règles de participation unique et de compositions sont bien respectées pendant le processus d'inscription
-- Le troisième gèrera la plannification des matchs, avant et pendant le tournoi au fil des victoires
+- Le troisième gèrera la création et gestion des matchs, avant et pendant le tournoi au fil des victoires
+- Le quatrième annoncera les matchs sur le serveur discord en créant des events avec rappel
