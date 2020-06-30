@@ -25,6 +25,7 @@ Les règles seront inspirés de la [Dofus Cup 2019](https://dofus.jeuxonline.inf
   - Steamer / Osamodas
   - Eniripsa / Steamer
 - Chaque **personnage** ne pourra participer qu'une fois au tournoi
+- Les matchs essayeront dans la mesure du possible d'assurer des matchs équitables en comparant le niveau moyen de chaque équipe
 ### Structure du projet
 Le projet sera divisé en plusieurs sous programmes articulés par un programme principal. Parmis ces sous-programmes :
 - Le premier sera chargé de l'inscription des participants
